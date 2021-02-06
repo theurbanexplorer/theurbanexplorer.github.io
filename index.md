@@ -5,4 +5,4 @@ Acum cativa ani mergand pe jos intre staita de metrou de la Obor si cea de la St
 
 ## Intrarea
 
-![Image of fast.ai logo](images/logo.png)
+![Image of fast.ai logo](images/IMG_5681.JPG)
