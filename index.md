@@ -6,3 +6,25 @@ Acum cativa ani mergand pe jos intre staita de metrou de la Obor si cea de la St
 ## Intrarea
 
 ![Image of fast.ai logo](images/IMG_5681.JPG)
+
+![Image of fast.ai logo](images/IMG_5799.JPG)
+
+![Image of fast.ai logo](images/IMG_5689.JPG)
+
+![Image of fast.ai logo](images/IMG_5700.JPG)
+
+![Image of fast.ai logo](images/IMG_5704.JPG)
+
+![Image of fast.ai logo](images/IMG_5706.JPG)
+
+![Image of fast.ai logo](images/IMG_5707.JPG)
+
+![Image of fast.ai logo](images/IMG_5711.JPG)
+
+![Image of fast.ai logo](images/IMG_5712.JPG)
+
+![Image of fast.ai logo](images/IMG_5718.JPG)
+
+![Image of fast.ai logo](images/IMG_5750.JPG)
+
+![Image of fast.ai logo](images/IMG_5790.JPG)
