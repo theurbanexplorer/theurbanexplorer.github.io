@@ -1,4 +1,6 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+[Facebook](https://www.facebook.com/mihai.ilie.98)
+[Instagram](https://www.instagram.com/mihaitensor)
+[Tweeter](https://twitter.com/mihaitensor)
 
