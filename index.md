@@ -45,8 +45,6 @@ In caz ca vrei sa vizitezi fiecare cotlon ar trebui sa ai grija. Este un haos to
 
 ![Image of fast.ai logo](images/IMG_5783.JPG)
 
-![Image of fast.ai logo](images/IMG_5706.JPG)
-
 ![Image of fast.ai logo](images/IMG_5707.JPG)
 
 ![Image of fast.ai logo](images/IMG_5711.JPG)
